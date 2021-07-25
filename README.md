@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Name        : Muhammad Zaki A.K.A zakybaraq.
-Born        : May 6th 1999, Sydney.
-Nationality : Indonesia.
-Hobby       : Computer Science & Security.
-Skills      : Python, Bash, Golang, Linux, PHP, Java, Javascript.
-Education   : Bachelor of Computer Engineer.
-Learning    : Anything.
-Instagram   : zaky.baraq
+- Name        : Muhammad Zaki A.K.A zakybaraq.
+- Born        : May 6th 1999, Sydney.
+- Nationality : Indonesia.
+- Hobby       : Computer Science & Security.
+- Skills      : Python, Bash, Golang, Linux, PHP, Java, Javascript.
+- Education   : Bachelor of Computer Engineer.
+- Learning    : Anything.
+- Instagram   : zaky.baraq
