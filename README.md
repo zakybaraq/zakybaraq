@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- Name        : Muhammad Zaki A.K.A zakybaraq.
 - Born        : May 6th 1999, Sydney.
 - Hobby       : Computer Science & Security.
 - Skills      : Python, Bash, Golang, Linux, PHP, Java, Javascript.
